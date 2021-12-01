@@ -3,5 +3,4 @@
 
 bool numeriprimi(int n, int d);
 
-
 #endif //lib_lib_H
